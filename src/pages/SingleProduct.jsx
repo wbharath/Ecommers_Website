@@ -70,6 +70,7 @@ const SingleProduct = () => {
             <button className="btn btn-secondary btn-md" onClick={()=>console.log("added to bag")}>
               Add to bag
             </button>
+            <span></span>
           </div>
           </div>
       </div>
